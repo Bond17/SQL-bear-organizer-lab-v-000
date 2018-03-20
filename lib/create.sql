@@ -1,7 +1,6 @@
-7CREATE TABLE bears (
+CREATE TABLE bears (
   name TEXT,
   age INTEGER,
-  breed TEXT, 
+  breed TEXT,
   net_worth INTEGER
 );
-
